@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище LibraryBDModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "C:\USERS\МАТВЕЙ\DOCUMENTS\VISUAL STUDIO 2017\PROJECTS\LIBRARYWPF\LIBRARYWPF\LIBRARYBD.MDF.dbo.Book" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BookTitle" Type="nchar" MaxLength="25" />
+    <Property Name="Author" Type="nchar" MaxLength="30" />
+    <Property Name="Publisher" Type="nchar" MaxLength="15" />
+    <Property Name="Pages" Type="int" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="BookID" Type="int" />
+    <Property Name="SubscriberID" Type="int" />
+    <Property Name="Date" Type="date" />
+    <Property Name="Return" Type="int" />
+  </EntityType>
+  <EntityType Name="Subscriber">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="15" />
+    <Property Name="Surname" Type="nchar" MaxLength="15" />
+    <Property Name="Patronimic" Type="nchar" MaxLength="15" />
+    <Property Name="Address" Type="nchar" MaxLength="10" />
+    <Property Name="Age" Type="int" />
+    <Property Name="RegDate" Type="date" />
+  </EntityType>
+  <EntityContainer Name="Хранилище LibraryBDModelContainer">
+    <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subscriber" EntityType="Self.Subscriber" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Book" EntityType="Self.Book" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Book].[Id] AS [Id], 
+    [Book].[BookTitle] AS [BookTitle], 
+    [Book].[Author] AS [Author], 
+    [Book].[Publisher] AS [Publisher], 
+    [Book].[Pages] AS [Pages], 
+    [Book].[Quantity] AS [Quantity]
+    FROM [dbo].[Book] AS [Book]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

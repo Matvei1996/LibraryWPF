@@ -1,0 +1,77 @@
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.exe.config
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.exe
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.pdb
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\App.g.cs
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_MarkupCompile.cache
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_MarkupCompile.lref
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\MainWindow.baml
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.g.resources
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.Properties.Resources.resources
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.csproj.GenerateResource.Cache
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.exe
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.pdb
+C:\Users\Матвей\documents\visual studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_Content.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\ReportView.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\ReportView.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberProfile.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberView.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\BookView.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\BookView.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\OrderView.g.cs
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.xml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\BookView.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\BookView.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\OrderView.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberProfile.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberView.baml
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.exe.config
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.exe
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\LibraryWPF.pdb
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.xml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\BookView.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\OrderView.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberProfile.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberView.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\App.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_Content.g.cs
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_MarkupCompile.cache
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF_MarkupCompile.lref
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\MainWindow.baml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\BookView.baml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\OrderView.baml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberProfile.baml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\Views\SubscriberView.baml
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.g.resources
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.Properties.Resources.resources
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.csproj.GenerateResource.Cache
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.exe
+C:\Users\Матвей\Desktop\LibraryWPF\LibraryWPF\obj\Debug\LibraryWPF.pdb
